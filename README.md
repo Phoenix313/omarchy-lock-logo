@@ -6,7 +6,7 @@ Your personal logo sits right above the password input and is automatically
 rendered in the **current theme's colors** — switch from Osaka Jade to any other
 theme and the logo recolors itself live.
 
-![Example input logo](assets/example-input.png)
+![Theme-tinted logo on the lock screen](assets/screenshot.png)
 
 Tested on Omarchy **4.5.0-3** with the default `omarchy-shell` (Quickshell) lock screen.
 
